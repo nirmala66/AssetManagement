@@ -9,6 +9,6 @@ namespace AssetManagement.Context
 {
     public class ApplicationContext : DbContext
     {
-        public ApplicationContext () : base("AssetManagement") { } //test
+        public ApplicationContext () : base("AssetManagement") { } //test //test
     }
 }
